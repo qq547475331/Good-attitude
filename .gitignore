@@ -43,3 +43,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# android 生成文件
+android/app/build/
+*.apk
+*.jar
+*.so
+
+# flutter build output
+build/
+flutter_assets/
+
