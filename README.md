@@ -4,27 +4,6 @@
 
 [Githhub地址](https://github.com/qq547475331/Good-attitude)
 
-## 截图
-
-![25-05-07 01-24-03 6005](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-03%206005.png)
-
-![25-05-07 01-24-06 6006](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-06%206006.png)
-
-![25-05-07 01-24-08 6007](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-08%206007.png)
-
-![25-05-07 01-24-16 6008](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-16%206008.png)
-
-![25-05-07 01-24-24 6009](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-24%206009.png)
-
-![25-05-07 01-24-33 6010](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-33%206010.png)
-
-![25-05-07 01-24-37 6011](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-37%206011.png)
-
-![25-05-07 01-24-41 6012](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-41%206012.png)
-
-![25-05-07 01-24-43 6013](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-43%206013.png)
-
-![25-05-07 01-24-46 6014](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-46%206014.png)
 
 ## 功能介绍
 
@@ -360,3 +339,25 @@ flutter build ios --release  // iOS版本
 - 改进UI/UX设计
 - 添加情绪追踪功能
 - 支持定制化主题
+
+## 截图
+
+![25-05-07 01-24-03 6005](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-03%206005.png)
+
+![25-05-07 01-24-06 6006](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-06%206006.png)
+
+![25-05-07 01-24-08 6007](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-08%206007.png)
+
+![25-05-07 01-24-16 6008](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-16%206008.png)
+
+![25-05-07 01-24-24 6009](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-24%206009.png)
+
+![25-05-07 01-24-33 6010](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-33%206010.png)
+
+![25-05-07 01-24-37 6011](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-37%206011.png)
+
+![25-05-07 01-24-41 6012](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-41%206012.png)
+
+![25-05-07 01-24-43 6013](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-43%206013.png)
+
+![25-05-07 01-24-46 6014](https://picture-base.oss-cn-hangzhou.aliyuncs.com/25-05-07%2001-24-46%206014.png)
